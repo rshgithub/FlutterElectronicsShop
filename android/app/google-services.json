@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "389634348381",
+    "project_id": "e-buy-f4bb7",
+    "storage_bucket": "e-buy-f4bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389634348381:android:d6cd510511c5f0023404b4",
+        "android_client_info": {
+          "package_name": "com.example.ft_e_buy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389634348381-rirn907tmg350f8506mclt7s3kdgpeel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK44YS4KMFtHU3wj0FraTyG5eqWBtKwOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389634348381-rirn907tmg350f8506mclt7s3kdgpeel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389634348381-195hq6d4ieoll3kbpae8ggp36jkq1ne5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ftEBuy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
